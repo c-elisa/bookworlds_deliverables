@@ -1,0 +1,2 @@
+Repository GitHub: https://github.com/c-elisa/bookWorlds
+Analisi SonarCloud: https://sonarcloud.io/project/overview?id=c-elisa_bookWorlds
